@@ -4,19 +4,18 @@
 
 <p align="center">
   <a href="https://www.meshcss.com">
-    <img alt="reddico-logo" src="https://reddico.co.uk/content/themes/reddico-theme/build/images/header/logo.svg width="500">
+    <img alt="reddico-logo" src="res/logo.jpg" width="100%">
   </a>
 </p>
 
 <p align="center">
     An extremely light, vanilla version of Ajax (less than 3kb)<br>
-    Using ES6 Promises to fulfill XML HTTP Requests
+    Using ES6 Promises to fulfill XML HTTP Requests.
 </p>
 
 ## Getting Started
 
 Install via npm ```npm i reddijax```.
-
 
 ## Contributors
 
