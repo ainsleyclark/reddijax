@@ -3,9 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.meshcss.com">
     <img alt="reddico-logo" src="res/logo.jpg" width="100%">
-  </a>
 </p>
 
 <p align="center">
@@ -15,7 +13,9 @@
 
 ## Getting Started
 
-Install via npm ```npm i reddijax```.
+- Install via npm ```npm i reddijax```.
+- Import Reddijax ```import Reddijax from ~Reddijax/dist/Reddijax ```
+
 
 ## Contributors
 
