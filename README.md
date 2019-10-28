@@ -1,10 +1,12 @@
-# Reddijax
-## An extremely light version of Ajax (less than 3kb) using ES6 Promises
-
-
 <h1 align="center" style="font-size: 3.2em">
   Reddijax
 </h1>
+
+<p align="center">
+  <a href="https://www.meshcss.com">
+    <img alt="reddico-logo" src="https://reddico.co.uk/content/themes/reddico-theme/build/images/header/logo.svg width="500">
+  </a>
+</p>
 
 <p align="center">
     An extremely light, vanilla version of Ajax (less than 3kb)<br>
