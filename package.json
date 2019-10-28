@@ -1,6 +1,6 @@
 {
-  "name": "Reddijax",
-  "version": "1.0.0",
+  "name": "reddijax",
+  "version": "1.0.1",
   "description": "An extremely light version of Ajax (less than 3kb) using ES6 Promises",
   "main": "./src/Reddijax.js",
   "scripts": {
