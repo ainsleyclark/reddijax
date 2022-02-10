@@ -28,7 +28,7 @@
   "devDependencies": {
     "cross-env": "^6.0.3",
     "laravel-mix": "^5.0.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "vue-template-compiler": "^2.6.10"
   }
 }
